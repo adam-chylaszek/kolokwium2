@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(zad3)
+file(GLOB SOURCES *.cpp)
+add_executable(zad3 ${SOURCES})
+install(TARGETS zad3 DESTINATION /build)

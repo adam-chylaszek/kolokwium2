@@ -1,0 +1,8 @@
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/install/strip.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/install/local.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/install.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/list_install_components.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/edit_cache.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/zad4.dir
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad4/bin/CMakeFiles/Student.dir

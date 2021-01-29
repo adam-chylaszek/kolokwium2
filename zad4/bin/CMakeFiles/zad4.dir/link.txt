@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/zad4.dir/src/libtest.cpp.o  -o zad4  -Wl,-Bstatic -lStudent -Wl,-Bdynamic 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/address.cpp
+string
+-
+
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/address.h
+stdio.h
+-
+
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/employee.cpp
+address.h
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/address.h
+
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/employee.h
+
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/main.cpp
+employee.h
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/employee.h
+address.h
+/mnt/c/Users/adamc/OneDrive/Dokumenty/Studia/SiNWO/kolokwium2/zad2/address.h
+
